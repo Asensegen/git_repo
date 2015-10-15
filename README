@@ -1,2 +1,7 @@
 This is a toy project
+<<<<<<< HEAD
 Add a second line
+=======
+
+This is a new line!
+>>>>>>> stefanos/master
